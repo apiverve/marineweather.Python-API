@@ -72,21 +72,21 @@ print(result)
       "lon": -37.62424
     },
     "weather": {
-      "maxtempc": 26.9,
-      "maxtempf": 80.4,
-      "mintempc": 26.4,
-      "mintempf": 79.5,
-      "avgtempc": 26.7,
-      "avgtempf": 80,
-      "maxwindmph": 12.2,
-      "maxwindkph": 19.7,
-      "totalprecipmm": 1.5,
-      "totalprecipin": 0.06,
+      "maxtempc": 26.1,
+      "maxtempf": 79,
+      "mintempc": 21.7,
+      "mintempf": 71.1,
+      "avgtempc": 25.4,
+      "avgtempf": 77.8,
+      "maxwindmph": 12,
+      "maxwindkph": 19.3,
+      "totalprecipmm": 2.36,
+      "totalprecipin": 0.09,
       "totalsnowcm": 0,
-      "avgviskm": 9.6,
+      "avgviskm": 9.5,
       "avgvismiles": 5,
-      "moonphase": "First Quarter",
-      "moonillumination": 64
+      "moonphase": "New Moon",
+      "moonillumination": 0
     }
   },
   "code": 200
@@ -115,7 +115,7 @@ All usage of the APIVerve website, API, and services is subject to the [APIVerve
 ## License
 Licensed under the The MIT License (MIT)
 
-Copyright (&copy;) 2024 APIVerve, and Evlar LLC
+Copyright (&copy;) 2025 APIVerve, and EvlarSoft LLC
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
